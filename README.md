@@ -10,4 +10,3 @@ O CSS está compilado em `tailwind.css` (não usa o script do CDN, que é lento)
 
 ## WhatsApp
 
-Número do Leive nos dois botões (`wa.me/557791892435`). Busque por `wa.me` para trocar.
